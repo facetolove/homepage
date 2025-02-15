@@ -12,5 +12,5 @@
 
 --->
 
-- [![勇敢](./events/2025-05-02.jpg)](https://www.facebook.com/share/1BGMx3Lx6s/)
 - [![一生敬拜](./events/2019-02-16.jpg)](https://www.facebook.com/media/set/?set=a.2308825219127898&type=3&locale=zh_TW)
+
