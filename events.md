@@ -16,3 +16,5 @@
 - [![路](./events/2019-11-30.jpg)](https://www.facebook.com/share/v/14ExUm7uyd/)
 - [![年終感恩聚](./events/2021-12-26.jpg)](https://www.facebook.com/share/p/14fJLJTbEj/)
 - [![Face to You](./events/2023-02-17.jpg)](https://www.facebook.com/share/v/15tCvAGrsp/)
+- [![起行](./events/2024-09-06.jpg)](https://www.facebook.com/share/v/18TrKKCvb7/)
+- [![HOL Worship Night](./events/2024-10-13.jpg)](https://www.facebook.com/share/p/1A2zobKyUq/)
