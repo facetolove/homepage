@@ -12,6 +12,6 @@
 
 --->
 
-- [![一生敬拜](./events/2019-02-16.jpg)](https://www.facebook.com/media/set/?set=a.2308825219127898&type=3&locale=zh_TW)
-- [![路](./events/2019-11-30.jpg)](https://www.facebook.com/media/set/?set=a.3135359323141146&type=3&locale=zh_TW)
+- [![一生敬拜](./https://www.facebook.com/facetolove.tw/videos/1693087924170339?locale=zh_TW)
+- [![路](./events/2019-11-30.jpg)](https://www.facebook.com/facetolove.tw/videos/569704820490487?locale=zh_TW)
 - [![年終感恩聚](./events/2021-12-26.jpg)](https://www.facebook.com/share/p/14fJLJTbEj/)
