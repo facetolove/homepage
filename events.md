@@ -15,3 +15,4 @@
 - [![一生敬拜](./events/2019-02-16.jpg)](https://www.facebook.com/share/v/1RVZ7kCzN6/)
 - [![路](./events/2019-11-30.jpg)](https://www.facebook.com/share/v/14ExUm7uyd/)
 - [![年終感恩聚](./events/2021-12-26.jpg)](https://www.facebook.com/share/p/14fJLJTbEj/)
+- [![Face to You](./events/2023-02-17.jpg)](https://www.facebook.com/media/set/?set=a.615727210563470&type=3&locale=zh_TW)
