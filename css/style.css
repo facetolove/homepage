@@ -1436,8 +1436,11 @@ nav.main-menu {
   margin: 12px 0;
 }
 
-.footer .info a {
+.footer .info ul li a {
   color: #ccc;
+}
+a.underline {
+  text-decoration: underline !important;
 }
 .footer .info img {
   width: 20px;
